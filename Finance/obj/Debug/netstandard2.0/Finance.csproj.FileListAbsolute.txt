@@ -1,0 +1,12 @@
+/Users/idura/Documents/Xamarin projects/Finance/Finance/bin/Debug/netstandard2.0/Finance.deps.json
+/Users/idura/Documents/Xamarin projects/Finance/Finance/bin/Debug/netstandard2.0/Finance.dll
+/Users/idura/Documents/Xamarin projects/Finance/Finance/bin/Debug/netstandard2.0/Finance.pdb
+/Users/idura/Documents/Xamarin projects/Finance/Finance/obj/Debug/netstandard2.0/Finance.csprojAssemblyReference.cache
+/Users/idura/Documents/Xamarin projects/Finance/Finance/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/idura/Documents/Xamarin projects/Finance/Finance/obj/Debug/netstandard2.0/View/MainPage.xaml.g.cs
+/Users/idura/Documents/Xamarin projects/Finance/Finance/obj/Debug/netstandard2.0/View/PostPage.xaml.g.cs
+/Users/idura/Documents/Xamarin projects/Finance/Finance/obj/Debug/netstandard2.0/Finance.AssemblyInfoInputs.cache
+/Users/idura/Documents/Xamarin projects/Finance/Finance/obj/Debug/netstandard2.0/Finance.AssemblyInfo.cs
+/Users/idura/Documents/Xamarin projects/Finance/Finance/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/idura/Documents/Xamarin projects/Finance/Finance/obj/Debug/netstandard2.0/Finance.dll
+/Users/idura/Documents/Xamarin projects/Finance/Finance/obj/Debug/netstandard2.0/Finance.pdb

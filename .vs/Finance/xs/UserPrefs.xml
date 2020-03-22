@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{154CC417-21AE-4A00-918F-FD8CD83D3F7B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Finance HideGettingStarted="True" />
+  <MonoDevelop.Ide.ItemProperties.Finance.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" Xamarin.HotReload.XFormsNugetUpgradeInfoBar.Finance.Android.HideInfoBar="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Finance" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Finance.iOS Xamarin.HotReload.XFormsNugetUpgradeInfoBar.Finance.iOS.HideInfoBar="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.77BD497D-9B0F-4461-89C8-2C71C4540B5D" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
