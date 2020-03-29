@@ -4,7 +4,7 @@
  --nolink
 --sdkroot=/Applications/Xcode.app/Contents/Developer
 --sdk=13.2
---targetver=8.0
+--targetver=11.4
  --aot-options=-O=-float32
  --http-message-handler=NSUrlSessionHandler
  --abi=x86_64
