@@ -1,4 +1,10 @@
 /Users/idura/Documents/Xamarin projects/Finance/Finance.iOS/bin/iPhoneSimulator/Release/Finance.iOS.exe
+/Users/idura/Documents/Xamarin projects/Finance/Finance.iOS/bin/iPhoneSimulator/Release/Microsoft.AppCenter.dll
+/Users/idura/Documents/Xamarin projects/Finance/Finance.iOS/bin/iPhoneSimulator/Release/Microsoft.AppCenter.iOS.Bindings.dll
+/Users/idura/Documents/Xamarin projects/Finance/Finance.iOS/bin/iPhoneSimulator/Release/Microsoft.AppCenter.Analytics.dll
+/Users/idura/Documents/Xamarin projects/Finance/Finance.iOS/bin/iPhoneSimulator/Release/Microsoft.AppCenter.Analytics.iOS.Bindings.dll
+/Users/idura/Documents/Xamarin projects/Finance/Finance.iOS/bin/iPhoneSimulator/Release/Microsoft.AppCenter.Crashes.dll
+/Users/idura/Documents/Xamarin projects/Finance/Finance.iOS/bin/iPhoneSimulator/Release/Microsoft.AppCenter.Crashes.iOS.Bindings.dll
 /Users/idura/Documents/Xamarin projects/Finance/Finance.iOS/bin/iPhoneSimulator/Release/Microsoft.SyndicationFeed.ReaderWriter.dll
 /Users/idura/Documents/Xamarin projects/Finance/Finance.iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Core.dll
 /Users/idura/Documents/Xamarin projects/Finance/Finance.iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Core.pdb
@@ -50,6 +56,7 @@
 /Users/idura/Documents/Xamarin projects/Finance/Finance.iOS/obj/iPhoneSimulator/Release/coremlc/_BundleResourceWithLogicalName.items
 /Users/idura/Documents/Xamarin projects/Finance/Finance.iOS/obj/iPhoneSimulator/Release/optimized/
 /Users/idura/Documents/Xamarin projects/Finance/Finance.iOS/obj/iPhoneSimulator/Release/Finance.iOS.csprojAssemblyReference.cache
+/Users/idura/Documents/Xamarin projects/Finance/Finance.iOS/obj/iPhoneSimulator/Release/Finance.iOS.csproj.CoreCompileInputs.cache
 /Users/idura/Documents/Xamarin projects/Finance/Finance.iOS/obj/iPhoneSimulator/Release/XamlC.stamp
 /Users/idura/Documents/Xamarin projects/Finance/Finance.iOS/obj/iPhoneSimulator/Release/Finance.iOS.csproj.CopyComplete
 /Users/idura/Documents/Xamarin projects/Finance/Finance.iOS/obj/iPhoneSimulator/Release/Finance.iOS.exe

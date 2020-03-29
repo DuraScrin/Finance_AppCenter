@@ -159,6 +159,12 @@
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.XPath.XDocument.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.XPath.XmlDocument.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.Xsl.Primitives.dll
+-r=/Users/idura/.nuget/packages/microsoft.appcenter/3.1.0/lib/Xamarin.iOS10/Microsoft.AppCenter.dll
+-r=/Users/idura/.nuget/packages/microsoft.appcenter/3.1.0/lib/Xamarin.iOS10/Microsoft.AppCenter.iOS.Bindings.dll
+-r=/Users/idura/.nuget/packages/microsoft.appcenter.analytics/3.1.0/lib/Xamarin.iOS10/Microsoft.AppCenter.Analytics.dll
+-r=/Users/idura/.nuget/packages/microsoft.appcenter.analytics/3.1.0/lib/Xamarin.iOS10/Microsoft.AppCenter.Analytics.iOS.Bindings.dll
+-r=/Users/idura/.nuget/packages/microsoft.appcenter.crashes/3.1.0/lib/Xamarin.iOS10/Microsoft.AppCenter.Crashes.dll
+-r=/Users/idura/.nuget/packages/microsoft.appcenter.crashes/3.1.0/lib/Xamarin.iOS10/Microsoft.AppCenter.Crashes.iOS.Bindings.dll
 -r=/Users/idura/.nuget/packages/microsoft.syndicationfeed.readerwriter/1.0.2/lib/netstandard1.3/Microsoft.SyndicationFeed.ReaderWriter.dll
 -r=/Users/idura/.nuget/packages/xamarin.forms/3.1.0.697729/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll
 -r=/Users/idura/.nuget/packages/xamarin.forms/3.1.0.697729/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll
@@ -201,4 +207,3 @@
 "-r=/Users/idura/Documents/Xamarin projects/Finance/Finance/bin/Release/netstandard2.0/Finance.dll"
  --target-framework=Xamarin.iOS,v1.0
 "--root-assembly=/Users/idura/Documents/Xamarin projects/Finance/Finance.iOS/bin/iPhoneSimulator/Release/Finance.iOS.exe"
- 

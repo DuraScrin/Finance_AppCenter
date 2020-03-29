@@ -8,6 +8,9 @@ color;obj/Release/res/values/colors.xml
 foreground;obj/Release/res/mipmap-anydpi-v26/icon.xml
 foreground;obj/Release/res/mipmap-anydpi-v26/icon_round.xml
 item;obj/Release/res/values/styles.xml
+resources;/Users/idura/Documents/Xamarin projects/Finance/Finance.Android/obj/Release/lp/2/jl/res/values/strings.xml
+resources;/Users/idura/Documents/Xamarin projects/Finance/Finance.Android/obj/Release/lp/5/jl/res/values/strings.xml
+resources;/Users/idura/Documents/Xamarin projects/Finance/Finance.Android/obj/Release/lp/6/jl/res/values/strings.xml
 resources;obj/Release/res/values/colors.xml
 resources;obj/Release/res/values/styles.xml
 style;obj/Release/res/values/styles.xml

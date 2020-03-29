@@ -9,12 +9,44 @@
     ".NETStandard,Version=v2.0/": {
       "Finance/1.0.0": {
         "dependencies": {
+          "Microsoft.AppCenter.Analytics": "3.1.0",
+          "Microsoft.AppCenter.Crashes": "3.1.0",
           "Microsoft.SyndicationFeed.ReaderWriter": "1.0.2",
           "NETStandard.Library": "2.0.3",
           "Xamarin.Forms": "3.1.0.697729"
         },
         "runtime": {
           "Finance.dll": {}
+        }
+      },
+      "Microsoft.AppCenter/3.1.0": {
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.AppCenter.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "3.1.0.0"
+          }
+        }
+      },
+      "Microsoft.AppCenter.Analytics/3.1.0": {
+        "dependencies": {
+          "Microsoft.AppCenter": "3.1.0"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.AppCenter.Analytics.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "3.1.0.0"
+          }
+        }
+      },
+      "Microsoft.AppCenter.Crashes/3.1.0": {
+        "dependencies": {
+          "Microsoft.AppCenter": "3.1.0"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.AppCenter.Crashes.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "3.1.0.0"
+          }
         }
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
@@ -272,6 +304,27 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Microsoft.AppCenter/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CHGMZIvOQxfiupheTAGEr1NeYRWtdy92iItG48l2rXI0bjRtSn34Tqtu7pR+IGKpBA5wIAgDSPFfyhFB4QxofA==",
+      "path": "microsoft.appcenter/3.1.0",
+      "hashPath": "microsoft.appcenter.3.1.0.nupkg.sha512"
+    },
+    "Microsoft.AppCenter.Analytics/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-txNI5dJ6qK9wL/aYt7GJa7CChm6QmYxln10p7mOpiC5nC+Pq5ca1MtK+AQzA0PG1Txuy1L1o87YpAzfLmSPOMw==",
+      "path": "microsoft.appcenter.analytics/3.1.0",
+      "hashPath": "microsoft.appcenter.analytics.3.1.0.nupkg.sha512"
+    },
+    "Microsoft.AppCenter.Crashes/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cHpcpoXpIiqKWeGR8NipTQb7ffuD3AMal2wiLtrbWM3C3p8BCwhy3xck8eOutS4CoE5uM9380EKWrEEQ0PWQqg==",
+      "path": "microsoft.appcenter.crashes/3.1.0",
+      "hashPath": "microsoft.appcenter.crashes.3.1.0.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",

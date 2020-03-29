@@ -1,16 +1,12 @@
--keepattributes *Annotation*
+# The following options are set by default.
+# Make sure they are always set, even if the default proguard config changes.
+-dontskipnonpubliclibraryclasses
+-verbose
 
--keepclassmembers enum android.arch.lifecycle.Lifecycle$Event {
-    <fields>;
+-keepclasseswithmembers class * implements com.microsoft.appcenter.AppCenterService {
+    public static ** getInstance();
 }
 
--keep class * implements android.arch.lifecycle.LifecycleObserver {
-}
-
--keep class * implements android.arch.lifecycle.GeneratedAdapter {
-    <init>(...);
-}
-
--keepclassmembers class ** {
-    @android.arch.lifecycle.OnLifecycleEvent *;
+-keepclassmembers class * implements javax.net.ssl.SSLSocketFactory {
+    private final javax.net.ssl.SSLSocketFactory delegate;
 }
